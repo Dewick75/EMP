@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\controllers\\employeeprojectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeeprojectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|d:\\{backup}\\disc p\\assignment workspace\\imbs web\\project1\\webapplication1\\webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6106D-BC71-44A9-BBF0-094AF3A85D1D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\EmployeeProject.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:31:24.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:31:24.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Project.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Models\\Project.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:31:23.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T10:31:24.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T23:25:06.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:31:24.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:31:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeProjectsController.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Controllers\\EmployeeProjectsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeProjectsController.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Controllers\\EmployeeProjectsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeProjectsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:12:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T23:25:03.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:11:44.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:31:24.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T10:31:24.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Employee.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:31:24.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Department.cs",
+              "ToolTip": "D:\\{BACKUP}\\Disc P\\Assignment Workspace\\IMBS WEB\\Project1\\WebApplication1\\WebApplication1\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:31:23.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
